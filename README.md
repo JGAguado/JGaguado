@@ -1,0 +1,3 @@
+### Hi there 👋
+
+I'm Jon G.Aguado, a Spaniard passionated for ✨ _self-made_ ✨ things. Specially those that have lights and make beep-beep noises...
