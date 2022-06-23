@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jon G.Aguado, passionated for ✨ _self-made_ ✨ things. Specially those that have lights and make beep-beep noises...
+I'm Jon G.Aguado, passionate for ✨ _self-made_ ✨ things. Specially those that have lights and make beep-beep noises...
 
 Some of my work:
 <ul>
