@@ -4,7 +4,7 @@ I'm Jon, engineer passionate for ✨ _self-made_ ✨ things. Specially those tha
 
 For knowing more about my public projects, visit my [Hackaday](https://hackaday.io/JGAguado)
 <ul>  
-   <img src="https://hackaday.io/project/189596/gallery#7da1076ccdb55ebd726f1a2a3482bd50" width="30%">       
-   <img src="https://hackaday.io/project/190443/gallery#01fd2d81b975e51c8c873069bd6d9751" width="30%">    
-   <img src="https://hackaday.io/project/191776/gallery#b4fa3705a327a33381986e886c46e631" width="30%">  
+   <img src="https://cdn.hackaday.io/images/2170541676648743665.JPG" width="33.3%">          
+   <img src="https://cdn.hackaday.io/images/5399731681052326256.JPG" width="45%">    
+   <img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1gja62ks0gkrd4h16ot1picp4mu.jpg" width="18.8%">  
 </ul>
