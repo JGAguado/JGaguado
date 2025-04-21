@@ -16,7 +16,7 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 * Speed: 10 km/h 
 * Direction: N  
 
-🕒 Updated: 2025-04-21 08:58 UTC
+🕒 Updated: 2025-04-21 09:00 UTC
 
 ---
 
@@ -28,7 +28,7 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 | Wed | ☁️ Clouds | 12°C / 22°C |
 | Thu | ☁️ Clouds | 10°C / 15°C |
 | Fri | ☁️ Clouds | 10°C / 12°C |
-| Sat | ☁️ Clouds | 10°C / 10°C |
+| Sat | ☁️ Clouds | 10°C / 15°C |
 ## 👋 Hi there!
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
@@ -46,7 +46,7 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 * Speed: 10 km/h 
 * Direction: N  
 
-🕒 Updated: 2025-04-21 08:58 UTC
+🕒 Updated: 2025-04-21 09:00 UTC
 
 ---
 
@@ -58,4 +58,4 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 | Wed | ☁️ Clouds | 12°C / 22°C |
 | Thu | ☁️ Clouds | 10°C / 15°C |
 | Fri | ☁️ Clouds | 10°C / 12°C |
-| Sat | ☁️ Clouds | 10°C / 10°C |
+| Sat | ☁️ Clouds | 10°C / 15°C |
