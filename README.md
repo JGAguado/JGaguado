@@ -5,9 +5,9 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 ### 🌤️ Weather in Vienna – 2025-04-21
 
 ![weather-sunny](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-sunny.svg)  
-**Clear sky**, 16°C (min 16°C, max 18°C)  
+**Clear sky**, 17°C (min 15°C, max 19°C)  
 💧 Humidity: 63%  
-🌬️ Wind: 13 km/h from NE
+🌬️ Wind: 6 km/h from NE
 
 ---
 
