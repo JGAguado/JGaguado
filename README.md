@@ -1,10 +1,22 @@
-### Hi there 👋
+## 👋 Hi there!
 
-I'm Jon, engineer passionate for ✨ _self-made_ ✨ things. Specially those that have lights and make beep-beep noises...
+I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹.
 
-For knowing more about my public projects, visit my [Hackaday](https://hackaday.io/JGAguado)
-<ul>  
-   <img src="https://cdn.hackaday.io/images/2170541676648743665.JPG" width="33.3%">          
-   <img src="https://cdn.hackaday.io/images/5399731681052326256.JPG" width="45%">    
-   <img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1gja62ks0gkrd4h16ot1picp4mu.jpg" width="18.8%">  
-</ul>
+### 🌤️ Weather in Vienna – 2025-04-21
+
+![weather-sunny](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-sunny.svg)  
+**Clear sky**, 16°C (min 16°C, max 18°C)  
+💧 Humidity: 63%  
+🌬️ Wind: 13 km/h from NE
+
+---
+
+### 📅 5-Day Forecast for Vienna
+
+| Day | Weather | Min / Max |
+|-----|---------|------------|
+| Mon | ![weather-sunny](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-sunny.svg) Clear | 16°C / 22°C |
+| Tue | ![weather-rainy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-rainy.svg) Rain | 13°C / 21°C |
+| Wed | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 12°C / 22°C |
+| Thu | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 10°C / 15°C |
+| Fri | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 10°C / 12°C |
