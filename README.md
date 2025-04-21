@@ -1,13 +1,21 @@
 ## 👋 Hi there!
 
-I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹.
+I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### 🌤️ Weather in Vienna – 2025-04-21
+### ☀️ Clear sky 
 
-![weather-sunny](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-sunny.svg)  
-**Clear sky**, 16°C (min 16°C, max 18°C)  
-💧 Humidity: 63%  
-🌬️ Wind: 13 km/h from NE
+🌡️ Temperature: 
+* Current: 17°C
+* Feels like: 17°C
+* Min: 16°C 
+* Max: 19°C  
+
+💧 Humidity: 62%  
+🌬️ Wind: 
+* Speed: 10 km/h 
+* Direction; N  
+
+🕒 Updated: 2025-04-21 08:55 UTC
 
 ---
 
@@ -15,8 +23,8 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 
 | Day | Weather | Min / Max |
 |-----|---------|------------|
-| Mon | ![weather-sunny](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-sunny.svg) Clear | 16°C / 22°C |
-| Tue | ![weather-rainy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-rainy.svg) Rain | 13°C / 21°C |
-| Wed | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 12°C / 22°C |
-| Thu | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 10°C / 15°C |
-| Fri | ![weather-cloudy](https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/weather-cloudy.svg) Clouds | 10°C / 12°C |
+| Tue | 🌦️ Rain | 13°C / 21°C |
+| Wed | ☁️ Clouds | 12°C / 22°C |
+| Thu | ☁️ Clouds | 10°C / 15°C |
+| Fri | ☁️ Clouds | 10°C / 12°C |
+| Sat | ☁️ Clouds | 10°C / 10°C |

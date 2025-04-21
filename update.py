@@ -12,26 +12,26 @@ UNITS = "metric"
 CURRENT_URL = f"https://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units={UNITS}"
 FORECAST_URL = f"https://api.openweathermap.org/data/2.5/forecast?lat={LAT}&lon={LON}&appid={API_KEY}&units={UNITS}"
 
-# Map OpenWeather icon codes to Material Design Icons (MDI)
-mdi_icon_map = {
-    "01d": "weather-sunny",
-    "01n": "weather-night",
-    "02d": "weather-partly-cloudy",
-    "02n": "weather-night-partly-cloudy",
-    "03d": "weather-cloudy",
-    "03n": "weather-cloudy",
-    "04d": "weather-cloudy",
-    "04n": "weather-cloudy",
-    "09d": "weather-pouring",
-    "09n": "weather-pouring",
-    "10d": "weather-rainy",
-    "10n": "weather-rainy",
-    "11d": "weather-lightning",
-    "11n": "weather-lightning",
-    "13d": "weather-snowy",
-    "13n": "weather-snowy",
-    "50d": "weather-fog",
-    "50n": "weather-fog",
+# Emoji icons
+emoji_map = {
+    "01d": "☀️",
+    "01n": "🌙",
+    "02d": "🌤️",
+    "02n": "☁️",
+    "03d": "☁️",
+    "03n": "☁️",
+    "04d": "☁️",
+    "04n": "☁️",
+    "09d": "🌧️",
+    "09n": "🌧️",
+    "10d": "🌦️",
+    "10n": "🌦️",
+    "11d": "🌩️",
+    "11n": "🌩️",
+    "13d": "❄️",
+    "13n": "❄️",
+    "50d": "🌫️",
+    "50n": "🌫️",
 }
 
 def fetch_weather():
@@ -43,7 +43,7 @@ def parse_current(current):
     weather = current["weather"][0]
     main = current["main"]
     wind = current["wind"]
-    icon = mdi_icon_map.get(weather["icon"], "weather-cloudy")
+    icon = emoji_map.get(weather["icon"], "🌤️")
     
     direction = wind_direction(wind.get("deg", 0))
     
@@ -51,6 +51,7 @@ def parse_current(current):
         "description": weather["description"].capitalize(),
         "icon": icon,
         "temp": round(main["temp"]),
+        "feels_like": round(main["feels_like"]),
         "temp_min": round(main["temp_min"]),
         "temp_max": round(main["temp_max"]),
         "humidity": main["humidity"],
@@ -63,22 +64,24 @@ def parse_forecast(forecast):
     for entry in forecast["list"]:
         dt = datetime.fromtimestamp(entry["dt"])
         date = dt.strftime("%a")
+        if date == datetime.utcnow().strftime("%a"):
+            continue  # skip today
         temp_min = entry["main"]["temp_min"]
         temp_max = entry["main"]["temp_max"]
         icon = entry["weather"][0]["icon"]
-        mdi_icon = mdi_icon_map.get(icon, "weather-cloudy")
+        emoji = emoji_map.get(icon, "🌤️")
         description = entry["weather"][0]["main"]
 
-        daily[date].append((temp_min, temp_max, mdi_icon, description))
+        daily[date].append((temp_min, temp_max, emoji, description))
 
     # Compress per day forecast
     forecast_summary = []
     for day, entries in list(daily.items())[:5]:
         min_temp = round(min(t[0] for t in entries))
         max_temp = round(max(t[1] for t in entries))
-        mdi_icon = entries[0][2]  # Use first entry's icon for simplicity
+        emoji = entries[0][2]  # Use first entry's emoji
         desc = entries[0][3]
-        forecast_summary.append((day, mdi_icon, desc, min_temp, max_temp))
+        forecast_summary.append((day, emoji, desc, min_temp, max_temp))
 
     return forecast_summary
 
@@ -88,26 +91,31 @@ def wind_direction(deg):
     return directions[idx]
 
 def update_readme(current, forecast):
-    now = datetime.utcnow().strftime("%Y-%m-%d")
-    
-    icon_url = f"https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/{current['icon']}.svg"
-    
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
     forecast_table = "| Day | Weather | Min / Max |\n|-----|---------|------------|\n"
     for day, icon, desc, tmin, tmax in forecast:
-        url = f"https://raw.githubusercontent.com/Templarian/MaterialDesign/master/icons/svg/{icon}.svg"
-        forecast_table += f"| {day} | ![{icon}]({url}) {desc} | {tmin}°C / {tmax}°C |\n"
+        forecast_table += f"| {day} | {icon} {desc} | {tmin}°C / {tmax}°C |\n"
 
     new_section = f"""\
 ## 👋 Hi there!
 
-I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹.
+I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### 🌤️ Weather in Vienna – {now}
+### {current['icon']} {current['description']} 
 
-![{current['icon']}]({icon_url})  
-**{current['description']}**, {current['temp']}°C (min {current['temp_min']}°C, max {current['temp_max']}°C)  
+🌡️ Temperature: 
+* Current: {current['temp']}°C
+* Feels like: {current['feels_like']}°C
+* Min: {current['temp_min']}°C 
+* Max: {current['temp_max']}°C  
+
 💧 Humidity: {current['humidity']}%  
-🌬️ Wind: {current['wind_speed']} km/h from {current['wind_dir']}
+🌬️ Wind: 
+* Speed: {current['wind_speed']} km/h 
+* Direction: {current['wind_dir']}  
+
+🕒 Updated: {now}
 
 ---
 
