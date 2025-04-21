@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 👋 Hi there!
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
