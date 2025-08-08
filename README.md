@@ -5,17 +5,17 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 ### ☀️ Clear sky 
 
 🌡️ Temperature: 
-* Current: 20°C
-* Feels like: 20°C
-* Min: 18°C 
-* Max: 22°C  
+* Current: 33°C
+* Feels like: 33°C
+* Min: 30°C 
+* Max: 34°C  
 
-💧 Humidity: 75%  
+💧 Humidity: 37%  
 🌬️ Wind: 
-* Speed: 3 km/h 
-* Direction: E  
+* Speed: 10 km/h 
+* Direction: SW  
 
-🕒 Updated: 2025-08-08 06:29 UTC
+🕒 Updated: 2025-08-08 12:38 UTC
 
 ---
 
@@ -23,8 +23,8 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 
 | Day | Weather | Min / Max |
 |-----|---------|------------|
-| Sat | ☁️ Clouds | 22°C / 34°C |
-| Sun | ☁️ Clouds | 23°C / 35°C |
-| Mon | 🌙 Clear | 20°C / 31°C |
-| Tue | 🌙 Clear | 20°C / 35°C |
-| Wed | ☁️ Clouds | 23°C / 25°C |
+| Sat | 🌙 Clear | 18°C / 34°C |
+| Sun | ☁️ Clouds | 24°C / 34°C |
+| Mon | 🌙 Clear | 20°C / 30°C |
+| Tue | 🌙 Clear | 19°C / 32°C |
+| Wed | 🌙 Clear | 20°C / 34°C |
