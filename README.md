@@ -2,20 +2,20 @@
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### ☁️ Few clouds 
+### 🌫️ Mist 
 
 🌡️ Temperature: 
 * Current: 8°C
-* Feels like: 7°C
-* Min: 7°C 
+* Feels like: 8°C
+* Min: 6°C 
 * Max: 9°C  
 
-💧 Humidity: 90%  
+💧 Humidity: 89%  
 🌬️ Wind: 
-* Speed: 7 km/h 
-* Direction: W  
+* Speed: 5 km/h 
+* Direction: E  
 
-🕒 Updated: 2025-11-10 01:22 UTC
+🕒 Updated: 2025-11-10 06:28 UTC
 
 ---
 
