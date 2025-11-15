@@ -5,17 +5,17 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 ### 🌧️ Light intensity drizzle 
 
 🌡️ Temperature: 
-* Current: 6°C
-* Feels like: 5°C
+* Current: 7°C
+* Feels like: 6°C
 * Min: 5°C 
-* Max: 7°C  
+* Max: 8°C  
 
-💧 Humidity: 91%  
+💧 Humidity: 90%  
 🌬️ Wind: 
-* Speed: 7 km/h 
-* Direction: W  
+* Speed: 6 km/h 
+* Direction: S  
 
-🕒 Updated: 2025-11-15 01:17 UTC
+🕒 Updated: 2025-11-15 06:23 UTC
 
 ---
 
