@@ -2,7 +2,7 @@
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### ☁️ Scattered clouds 
+### ☁️ Broken clouds 
 
 🌡️ Temperature: 
 * Current: 3°C
@@ -10,12 +10,12 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 * Min: 1°C 
 * Max: 3°C  
 
-💧 Humidity: 79%  
+💧 Humidity: 80%  
 🌬️ Wind: 
-* Speed: 28 km/h 
+* Speed: 20 km/h 
 * Direction: NW  
 
-🕒 Updated: 2025-11-27 01:18 UTC
+🕒 Updated: 2025-11-27 06:27 UTC
 
 ---
 
