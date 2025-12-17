@@ -8,14 +8,14 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 * Current: 1°C
 * Feels like: -5°C
 * Min: 0°C 
-* Max: 3°C  
+* Max: 2°C  
 
-💧 Humidity: 95%  
+💧 Humidity: 94%  
 🌬️ Wind: 
-* Speed: 30 km/h 
+* Speed: 20 km/h 
 * Direction: SE  
 
-🕒 Updated: 2025-12-17 01:20 UTC
+🕒 Updated: 2025-12-17 06:29 UTC
 
 ---
 
