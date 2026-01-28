@@ -2,20 +2,20 @@
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### 🌧️ Light intensity drizzle 
+### 🌧️ Drizzle 
 
 🌡️ Temperature: 
 * Current: 1°C
-* Feels like: -1°C
+* Feels like: -2°C
 * Min: -1°C 
-* Max: 2°C  
+* Max: 1°C  
 
-💧 Humidity: 93%  
+💧 Humidity: 95%  
 🌬️ Wind: 
-* Speed: 6 km/h 
-* Direction: NW  
+* Speed: 7 km/h 
+* Direction: N  
 
-🕒 Updated: 2026-01-28 01:39 UTC
+🕒 Updated: 2026-01-28 06:33 UTC
 
 ---
 
