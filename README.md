@@ -5,17 +5,17 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 ### ☁️ Broken clouds 
 
 🌡️ Temperature: 
-* Current: 3°C
-* Feels like: 0°C
-* Min: 2°C 
-* Max: 4°C  
+* Current: 4°C
+* Feels like: 2°C
+* Min: 3°C 
+* Max: 5°C  
 
-💧 Humidity: 95%  
+💧 Humidity: 93%  
 🌬️ Wind: 
-* Speed: 13 km/h 
-* Direction: SE  
+* Speed: 8 km/h 
+* Direction: E  
 
-🕒 Updated: 2026-02-05 01:53 UTC
+🕒 Updated: 2026-02-05 06:55 UTC
 
 ---
 
