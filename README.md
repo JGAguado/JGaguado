@@ -2,20 +2,20 @@
 
 I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria** 🇦🇹, where we have today:
 
-### ☁️ Broken clouds 
+### 🌙 Clear sky 
 
 🌡️ Temperature: 
-* Current: -1°C
-* Feels like: -7°C
-* Min: -3°C 
-* Max: 0°C  
+* Current: -5°C
+* Feels like: -8°C
+* Min: -6°C 
+* Max: -3°C  
 
-💧 Humidity: 64%  
+💧 Humidity: 78%  
 🌬️ Wind: 
-* Speed: 22 km/h 
-* Direction: N  
+* Speed: 8 km/h 
+* Direction: E  
 
-🕒 Updated: 2026-02-15 18:32 UTC
+🕒 Updated: 2026-02-16 01:57 UTC
 
 ---
 
@@ -23,8 +23,8 @@ I'm Jon, a passionate engineer and maker enthusiast based in **Vienna, Austria**
 
 | Day | Weather | Min / Max |
 |-----|---------|------------|
-| Mon | ☁️ Clouds | -2°C / 6°C |
-| Tue | 🌦️ Rain | 3°C / 6°C |
-| Wed | ☁️ Clouds | 1°C / 5°C |
-| Thu | ☁️ Clouds | 0°C / 3°C |
-| Fri | ☁️ Clouds | -1°C / 2°C |
+| Tue | 🌦️ Rain | 3°C / 5°C |
+| Wed | 🌦️ Rain | 2°C / 6°C |
+| Thu | ☁️ Clouds | -1°C / 1°C |
+| Fri | ☁️ Clouds | -3°C / 1°C |
+| Sat | 🌙 Clear | -1°C / -1°C |
